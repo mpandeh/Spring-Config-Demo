@@ -1,2 +1,5 @@
 Value1: some-val
 Value2: another-val
+foo: Foo text
+democonfigclient:
+message: hello config server
